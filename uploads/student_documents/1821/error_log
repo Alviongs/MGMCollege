@@ -1,0 +1,4 @@
+[02-Jun-2025 05:37:00 Etc/UTC] PHP Warning:  session_cache_limiter(): Session cache limiter cannot be changed when a session is active in /home/culwshqnljpt/public_html/mgmcollage.alviongs.com/uploads/student_documents/1821/index.php on line 194
+[02-Jun-2025 05:37:00 Etc/UTC] PHP Warning:  session_name(): Session name cannot be changed when a session is active in /home/culwshqnljpt/public_html/mgmcollage.alviongs.com/uploads/student_documents/1821/index.php on line 195
+[02-Jun-2025 05:37:00 Etc/UTC] PHP Warning:  session_cache_limiter(): Session cache limiter cannot be changed when a session is active in /home/culwshqnljpt/public_html/mgmcollage.alviongs.com/uploads/student_documents/1821/index.php on line 194
+[02-Jun-2025 05:37:00 Etc/UTC] PHP Warning:  session_name(): Session name cannot be changed when a session is active in /home/culwshqnljpt/public_html/mgmcollage.alviongs.com/uploads/student_documents/1821/index.php on line 195

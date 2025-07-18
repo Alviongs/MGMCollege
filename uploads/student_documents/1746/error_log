@@ -1,0 +1,4 @@
+[02-Jun-2025 05:36:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function create_function() in /home/culwshqnljpt/public_html/mgmcollage.alviongs.com/uploads/student_documents/1746/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/culwshqnljpt/public_html/mgmcollage.alviongs.com/uploads/student_documents/1746/index.php on line 1
